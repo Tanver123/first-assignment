@@ -12,6 +12,27 @@ section{
 .width-fix{
     width: 50%;
 }
+.manu-item{
+	width: 72%;
+	font-size: 20px;
+    padding-top: 23px;
+
+}
+li{
+	margin-right: 50px;
+	list-style: none;
+}
+.logo-item{
+	width: 50%;
+	margin-left: 40px;
+
+}
+.manu-area{
+	background: url(images/shapes/Frame\ 58.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
 .width-fix img{
     width: 85%;
 }
@@ -106,3 +127,4 @@ footer{
 footer h3{
     font-size: 30px;
 }
+
